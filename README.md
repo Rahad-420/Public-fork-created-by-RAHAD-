@@ -1,17 +1,22 @@
-<img src="https://i.imgur.com/QopLoz0.jpeg" alt="banner">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> 𝐁𝐀𝐘𝐉𝐈𝐃 -𝐗𝐀𝐒𝐒 𝐁𝐎𝐓__/:;)🤍- 𝐌𝐎𝐇𝐀𝐌𝐌𝐀𝐃 𝐁𝐀𝐘𝐉𝐈𝐃  𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
-<!-- Github README -->
+<p align="center">
+  <img src="https://i.imgur.com/ZCw46ih.jpeg" width="250" style="border-radius: 15px;" alt="RAHAD BOT DP" />
+</p>
 
-<p align="center"><img src="https://img.shields.io/badge/I Am BAYJID %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<h1 align="center">
+  🔧💥 𝙍𝘼𝙃𝘼𝘿 - 𝘽𝙊𝙏 💥🔧
+</h1>
 
-</i></b></h3>
 <h3 align="center">
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ᴄʜᴀᴛ ʙᴏᴛ &nbsp;
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+  🧠𝙈𝙀𝙎𝙎𝙀𝙉𝙂𝙀𝙍 𝘽𝙊𝙏 𝘽𝙐𝙄𝙇𝙏 𝘽𝙔 ✨ <b>𝑹𝑨𝑯𝑨𝑫</b>
 </h3>
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
+<p align="center">
+  <img src="https://img.shields.io/badge/MADE_BY-RAHAD-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/COUNTRY-BANGLADESH-0088ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LEVEL-NOOB_PRO_DEV-blueviolet?style=for-the-badge" />
+</p>
 
+---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+𝙸𝙽𝙽𝙾𝙲𝙴𝙽𝚃+𝙱𝙾𝚈;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙹𝚄𝚂𝚃+𝙰+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'R+A+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅e+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
+<p align="center">
+  🌈✨ <b><i>𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 𝙍𝘼𝙃𝘼𝘿 -𝙓𝘼𝙎𝙎 𝘽𝙊𝙏</i></b> ✨🌈<br>
