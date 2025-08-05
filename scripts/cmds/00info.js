@@ -5,7 +5,7 @@ module.exports = {
     name: "info",
     aliases: ["owner", "dev", "creator"],
     version: "5.6",
-    author: "BaYjid",
+    author: "Rahad",
     role: 0,
     shortDescription: {
       en: "Bot owner info with Date Note style"
